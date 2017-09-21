@@ -1,7 +1,7 @@
 # 10WAYS
 Simple website project based on PSD file
 
-Used HTML5, CSS3, RWD.
+Used __HTML5__, __CSS3__, __RWD__.
 
 ### Preview
 ![layout](images/10ways.png)
